@@ -12,7 +12,7 @@ BlendTree:
     m_Motion: {fileID: -5498853207340310059, guid: b031b526d17ab214f9d71914f9ee1020,
       type: 3}
     m_Threshold: 0
-    m_Position: {x: -0.008, y: -0.037}
+    m_Position: {x: -0.2, y: -0.2}
     m_TimeScale: 1
     m_CycleOffset: 0
     m_DirectBlendParameter: Grip
@@ -79,7 +79,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Left Hand Main Animator
+  m_Name: Hand Main Animator
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Grip
